@@ -1,2 +1,2 @@
 # MarcusJump
- Jogo em Javascript HTML e CSS
+ Jogo desenvolvido em HTML, CSS e Javascript para fins de estudo.
