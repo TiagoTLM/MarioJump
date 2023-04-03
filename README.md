@@ -19,4 +19,3 @@
 ***
 
 ## Estou trabalhando em uma atualização para adicionar outras variedades de obstáculos.
-* Futuramente também pretendo alterar a aparência do personagem e dos obstáculos para afasta-lo do personagem da Nintendo.
