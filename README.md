@@ -1,4 +1,4 @@
-# MarcusJump
+# MarioJump
  ## Jogo desenvolvido em HTML, CSS e Javascript para fins de estudo. ##
  
  * O jogo está em sua versão inicial, pretendo realizar mais algumas alterações para aprofundar o estudo de CSS e Javascript.
@@ -17,5 +17,3 @@
 ![print3](https://github.com/TiagoTLM/MarcusJump/blob/main/images/print3.png?raw=true)
 
 ***
-
-## Estou trabalhando em uma atualização para adicionar outras variedades de obstáculos.
