@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
+.score, .final-score {
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.final-score {
+    display: none;
+}
+
 .game-board {
     width: 100%;
     height: 500px;
@@ -24,7 +38,7 @@
 .mario {
     position: absolute;
     bottom: 0px;
-    width: 60px;
+    width: 80px;
 
 }
 
